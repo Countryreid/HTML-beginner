@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!-- This doctype is telling the computer that this is html code-->
+<html lang="en">
+    <!-- All html code should be between the HTML tags. Like the one above-->
+    <!-- HTML tags can have attributes like the language of the page-->
+    <head>
+        <title>HTML in ten minutes</title>
+    </head>
+    <body>
+        <h1>This is the first heading</h1>
+        <p>This is the paragraph tag</p>
+        <h2>This is the second heading</h2><br>
+
+<img src="html-5.png" width="200" height="200">
+    </body>
+</html>
